@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://imgur.com/a/xk0bKky">
+<img src="https://i.imgur.com/JgjpKaQ.jpg">
 <!--
 **agl5702/agl5702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
