@@ -20,9 +20,9 @@
 
 ---
 
-### Arquitectura MVVM  
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-  <img src="https://i.imgur.com/7uCBigG.jpg" width="800" alt="Curso arquitectura MVVM">
+### Keitt Web 
+<a href="https://keittweb.vercel.app/#developers" target="_blank">
+  <img src="https://i.imgur.com/Qvihf8f.png" width="800" alt="KeittWeb">
 </a>
 <p>
   <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
