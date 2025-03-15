@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://i.imgur.com/JgjpKaQ.jpg">
 
-## Proyectos *Favoritos* (Backend Developer)
+## *Favorite* Projects (Backend Developer)
 <table>
 <tr>
 <td width="50%">
@@ -9,14 +9,11 @@
 <div align="center">
 <a href="https://eccofullstack.vercel.app/shop" target="_blank"><img src="https://i.imgur.com/WdQc39M.png" width="400" alt="eccomerce fullstack"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/agl5702/eccofullstack-backend" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Ecco Fullstack <strong>It is my e-commerce</strong> - which I have developed to demonstrate my skills as a backend developer</p>
 </div>
                                                                                       
 </td>
