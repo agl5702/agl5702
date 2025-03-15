@@ -1,4 +1,4 @@
-##      Hey! 😊 ⛩️🌸🍥☯🍜
+##    ⛩️🍥  Hey! 😊 ☯🍜
 <img src="https://i.imgur.com/JgjpKaQ.jpg">
 
 ## *Favorite* Projects (Backend Developer)
