@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://i.imgur.com/JgjpKaQ.jpg">
 
-## Proyectos *bombitas*
+## Proyectos *Favoritos* (Backend Developer)
 <table>
 <tr>
 <td width="50%">
