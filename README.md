@@ -7,7 +7,7 @@
 <td width="100%">
 <h3 align="center">Ecco Fullstack</h3>
 <div align="center">
-<a href="https://eccofullstack.vercel.app/shop" target="_blank"><img src="https://i.imgur.com/WdQc39M.png" width="400" alt="eccomerce fullstack"></a>
+<a href="https://eccofullstack.vercel.app/shop" target="_blank"><img src="https://i.imgur.com/WdQc39M.png" width="800" alt="eccomerce fullstack"></a>
 <p>
 <a href="https://github.com/agl5702/eccofullstack-backend" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
