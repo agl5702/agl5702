@@ -4,7 +4,7 @@
 ## *Favorite* Projects (Backend Developer)
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 <h3 align="center">Ecco Fullstack</h3>
 <div align="center">
 <a href="https://eccofullstack.vercel.app/shop" target="_blank"><img src="https://i.imgur.com/WdQc39M.png" width="400" alt="eccomerce fullstack"></a>
