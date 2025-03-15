@@ -33,7 +33,7 @@
   </a>
 </p>
 <p>
-  Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas, irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
+  KeittWeb <strong>is a SENA (SENNOVA) </strong> research project in which I participated as a backend developer during my internship. I developed 100% of the backend, and you can visit it anytime.
 </p>
 
 </div>
