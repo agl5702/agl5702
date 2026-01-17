@@ -1,5 +1,5 @@
 ##    ⛩️🍥  Hey! 🦊🍜
-<img src="https://i.imgur.com/JgjpKaQ.jpg">
+<img src="https://imgur.com/a/orzJajS">
 
 ## *Favorite* Projects (Backend Developer)
 
