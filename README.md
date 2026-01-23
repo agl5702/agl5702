@@ -7,7 +7,7 @@
   
 ### Autos Roshemi Vip
 <a href="https://roshemivip.com" target="_blank">
-  <img src="https://i.imgur.com/p6eqDww.png" width="800" alt="roshemivip_cars_models">
+  <img src=https://i.imgur.com/ShW1nzD.png" width="800" alt="roshemivip_cars_models">
 </a>
 <p>
   <a href="https://github.com/agl5702/roshemivip" target="_blank">
