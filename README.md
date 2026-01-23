@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  <strong>Autos Roshemi VIP</strong> is a custom e-commerce platform developed to showcase my skills as a backend-focused full stack developer.
+  <strong>Autos Roshemi VIP</strong> is a management system built for a car dealership, designed to control vehicle inventory, track sales, and calculate profits. It helps manage available vehicles, monitor business performance, and maintain accurate financial records.
 </p>
 
 ---
@@ -42,10 +42,10 @@
 
 ---
 
-### 🚗 Sistema de catálogos
+### 👕 Product Catalog & Role Management System
 
 <a href="https://roshemivip.com" target="_blank">
-  <img src="https://angeldev.site/assets/lunalu1-BDCl1okp.png" width="800" alt="sistema_catalogos">
+  <img src="https://angeldev.site/assets/lunalu1-BDCl1okp.png" width="800" alt="Product Catalog System">
 </a>
 
 <p>
@@ -55,7 +55,7 @@
 </p>
 
 <p>
-  <strong>Autos Roshemi VIP</strong> is a custom e-commerce platform developed to showcase my skills as a backend-focused full stack developer.
+  A system focused on <strong>employee role management</strong> and <strong>clothing product administration</strong>. It allows staff members to register garments with multiple colors and sizes, which are automatically synchronized with a public-facing catalog viewed by end users.
 </p>
 
 ---
@@ -101,3 +101,4 @@
 ---
 
 </div>
+
