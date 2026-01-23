@@ -42,6 +42,24 @@
 
 ---
 
+### 🚗 Sistema de catálogos
+
+<a href="https://roshemivip.com" target="_blank">
+  <img src="https://angeldev.site/assets/lunalu1-BDCl1okp.png" width="800" alt="sistema_catalogos">
+</a>
+
+<p>
+  <a href="https://github.com/agl5702/roshemivip" target="_blank">
+    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+
+<p>
+  <strong>Autos Roshemi VIP</strong> is a custom e-commerce platform developed to showcase my skills as a backend-focused full stack developer.
+</p>
+
+---
+
 ### 🛒 Ecco Fullstack
 
 <a href="https://eccofullstack.vercel.app/shop" target="_blank">
