@@ -25,12 +25,8 @@
 ### 🧾 Overview
 
 This project is a **custom inventory management system** designed for small and medium-sized businesses that require full control over inventory, sales, debts, profits, and financial reports.
-
 The system provides an all-in-one solution to manage **categories, products, customers, debts, sales, returns, and analytics**, offering clear and accurate insights into business performance over customizable date ranges.
-
 It was developed with a strong focus on **real-world business logic, financial accuracy, and scalability**.
-
----
 ---
 ### Ecco Fullstack  
 <a href="https://eccofullstack.vercel.app/shop" target="_blank">
