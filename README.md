@@ -1,5 +1,5 @@
  ##    ⛩️🍥  Hey! 🦊🍜
-<img src="https://i.imgur.com/FIgLYpO.png">
+<img src="https://i.imgur.com/yMksqSO.png">
 
 ## *Favorite* Projects (Full Stack Developer)
 
