@@ -16,11 +16,6 @@
   <img src="https://i.imgur.com/ShW1nzD.png" width="800" alt="Roshemi VIP Cars Models">
 </a>
 
-<p>
-  <a href="https://github.com/agl5702/roshemivip" target="_blank">
-    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</p>
 
 <p>
   <strong>Autos Roshemi VIP</strong> is a management system built for a car dealership, designed to control vehicle inventory, track sales, and calculate profits. It helps manage available vehicles, monitor business performance, and maintain accurate financial records.
@@ -49,12 +44,6 @@
 </a>
 
 <p>
-  <a href="https://github.com/agl5702/roshemivip" target="_blank">
-    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</p>
-
-<p>
   A system focused on <strong>employee role management</strong> and <strong>clothing product administration</strong>. It allows staff members to register garments with multiple colors and sizes, which are automatically synchronized with a public-facing catalog viewed by end users.
 </p>
 
@@ -65,12 +54,6 @@
 <a href="https://eccofullstack.vercel.app/shop" target="_blank">
   <img src="https://i.imgur.com/WdQc39M.png" width="800" alt="Ecco Fullstack Ecommerce">
 </a>
-
-<p>
-  <a href="https://github.com/agl5702/eccofullstack-backend" target="_blank">
-    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</p>
 
 <p>
   <strong>Ecco Fullstack</strong> is an e-commerce platform built to demonstrate my skills in backend development, API design, and business logic implementation.
@@ -87,12 +70,6 @@
 <a href="https://keittweb.vercel.app/#developers" target="_blank">
   <img src="https://i.imgur.com/bqY55LA.png" width="800" alt="Keitt Web Screenshot 2">
 </a>
-
-<p>
-  <a href="https://github.com/agl5702/KeittWeb-Backend/" target="_blank">
-    <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</p>
 
 <p>
   <strong>Keitt Web</strong> is a SENA (SENNOVA) research project in which I participated as a backend developer during my internship. I developed 100% of the backend architecture and APIs.
