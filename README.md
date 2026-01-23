@@ -18,11 +18,11 @@
   Autos Roshemi Vip <strong>It is my e-commerce</strong> - which I have developed to demonstrate my skills as a backend developer.
 </p>
 ---
-## 📦 Custom Inventory Management System
+### 📦 Custom Inventory Management System
 
-<img src="https://angeldev.site/assets/jhs3-B7Wz-n7V.png" />
+<img  src="https://angeldev.site/assets/jhs3-B7Wz-n7V.png" width="800" alt="sistema_inventario">
 
-## 🧾 Overview
+### 🧾 Overview
 
 This project is a **custom inventory management system** designed for small and medium-sized businesses that require full control over inventory, sales, debts, profits, and financial reports.
 
