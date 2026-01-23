@@ -1,7 +1,7 @@
  ##    ⛩️🍥  Hey! 🦊🍜
 <img src="https://i.imgur.com/w58ckTM.png">
 
-## *Favorite* Projects (Backend Developer)
+## *Favorite* Projects (Full Stack Developer)
 
 <div align="center">
   
