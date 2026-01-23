@@ -12,9 +12,7 @@
 
 ### 🚗 Autos Roshemi VIP
 
-<a href="https://roshemivip.com" target="_blank">
-  <img src="https://i.imgur.com/ShW1nzD.png" width="800" alt="Roshemi VIP Cars Models">
-</a>
+<img src="https://i.imgur.com/ShW1nzD.png" width="800" alt="Roshemi VIP Cars Models">
 
 
 <p>
@@ -39,9 +37,7 @@
 
 ### 👕 Product Catalog & Role Management System
 
-<a href="https://roshemivip.com" target="_blank">
-  <img src="https://angeldev.site/assets/lunalu1-BDCl1okp.png" width="800" alt="Product Catalog System">
-</a>
+<img src="https://angeldev.site/assets/lunalu1-BDCl1okp.png" width="800" alt="Product Catalog System">
 
 <p>
   A system focused on <strong>employee role management</strong> and <strong>clothing product administration</strong>. It allows staff members to register garments with multiple colors and sizes, which are automatically synchronized with a public-facing catalog viewed by end users.
@@ -51,9 +47,7 @@
 
 ### 🛒 Ecco Fullstack
 
-<a href="https://eccofullstack.vercel.app/shop" target="_blank">
-  <img src="https://i.imgur.com/WdQc39M.png" width="800" alt="Ecco Fullstack Ecommerce">
-</a>
+<img src="https://i.imgur.com/WdQc39M.png" width="800" alt="Ecco Fullstack Ecommerce">
 
 <p>
   <strong>Ecco Fullstack</strong> is an e-commerce platform built to demonstrate my skills in backend development, API design, and business logic implementation.
@@ -63,13 +57,9 @@
 
 ### 🌐 Keitt Web
 
-<a href="https://keittweb.vercel.app/#developers" target="_blank">
-  <img src="https://i.imgur.com/Qvihf8f.png" width="800" alt="Keitt Web Screenshot 1">
-</a>
+<img src="https://i.imgur.com/Qvihf8f.png" width="800" alt="Keitt Web Screenshot 1">
 
-<a href="https://keittweb.vercel.app/#developers" target="_blank">
-  <img src="https://i.imgur.com/bqY55LA.png" width="800" alt="Keitt Web Screenshot 2">
-</a>
+<img src="https://i.imgur.com/bqY55LA.png" width="800" alt="Keitt Web Screenshot 2">
 
 <p>
   <strong>Keitt Web</strong> is a SENA (SENNOVA) research project in which I participated as a backend developer during my internship. I developed 100% of the backend architecture and APIs.
