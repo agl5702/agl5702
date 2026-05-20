@@ -38,8 +38,9 @@
 
 ### 👕 Product Catalog & Role Management System
 
-<img src="https://angeldev.site/assets/lunalu1-BDCl1okp.png" width="800" alt="Product Catalog System">
-
+<img src="https://www.angeldev.online/assets/lunalu2-BHI92WSL.png" width="800" alt="Product Catalog System">
+<img src="https://www.angeldev.online/assets/lunalu7-D50iZkEn.png" width="800" alt="Product Catalog System">
+<img src="https://www.angeldev.online/assets/lunalu8-YGb1LIpG.png" width="800" alt="Product Catalog System">
 <p>
   A system focused on <strong>employee role management</strong> and <strong>clothing product administration</strong>. It allows staff members to register garments with multiple colors and sizes, which are automatically synchronized with a public-facing catalog viewed by end users.
 </p>
