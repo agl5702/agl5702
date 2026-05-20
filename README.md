@@ -175,9 +175,9 @@ A research project developed during my internship at SENA (SENNOVA), where I wor
 
 # 📫 Contact
 
-- 🌐 Portfolio: your-portfolio-link
-- 💼 LinkedIn: your-linkedin
-- 📧 Email: your-email
+- 🌐 Web Site: https://www.angeldev.online/
+- 💼 LinkedIn: www.linkedin.com/in/angel-vasquez-pedrozo-221634297
+- 📧 Email: tenshidesu12345@gmail.com
 
 ---
 
